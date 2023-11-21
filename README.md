@@ -1,4 +1,4 @@
-# Kidds
+# Kidds-School-Management
 Kidds: School Management dynamic webdevelopment by core PHP MySQL.
 
 Username: SuperAdmin
