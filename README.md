@@ -1,0 +1,15 @@
+# Kidds
+Kidds: School Management dynamic webdevelopment by core PHP MySQL.
+
+Username: SuperAdmin
+Password: Admin@123
+Accessable : All Feature
+Dashboard, Add Users, Banner, Teachers, Contact, Message Live, Site Logout
+
+Username: Admin
+Password: Admin@123
+Accessable : Don't access User panel. Other Feature Accessable.
+
+Username: Author Eitor Subscriber
+Password: Admin@123
+Accessable : Don't access User panel and Banner control. Other Feature Accessable.
