@@ -18,11 +18,11 @@ Accessable : Don't access User panel and Banner control. Other Feature Accessabl
 
 
 ## About user interfaces (UI)
-I designs dynamic user interfaces (UI) done following Rayn's computer. Design personal Admin Panel to controll UI.
+Core-PHP-Kidds-School-Management. I designs dynamic user interfaces (UI) done following a template. Design personal Admin Panel to control UI.
 
 
 ## Important Features:
-Important Features: login authentication, Category-Subcategory and Filtering and Search by Ajax. Cart by jQuery use local Storage, insert multi images purchase, sales multiproduct, Report and Invoice.
+Important Features: login authentication, Role access, Contact, Dynamic image and Content .
 
 
 ## Use technologies:
