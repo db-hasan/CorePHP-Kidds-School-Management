@@ -26,7 +26,7 @@ Important Features: login authentication, Role access, Contact, Dynamic image an
 
 
 ## Use technologies:
-Use technologies: HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, backend PHP(OPP) Laravel blade engine. Server-side MySQL.
+Use technologies: HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, backend PHP(OPP) Server-side MySQL.
 
 
 ## Live link:
